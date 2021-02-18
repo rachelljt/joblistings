@@ -1,10 +1,10 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 5038,
-  "expoServerNgrokUrl": "https://t8-3pm.anonymous.job-listings.exp.direct",
-  "packagerNgrokUrl": "https://packager.t8-3pm.anonymous.job-listings.exp.direct",
-  "ngrokPid": 5057,
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null,
   "webpackServerPort": null
 }
